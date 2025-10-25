@@ -2,7 +2,7 @@
 
 ## 📋 Tổng Quan Dự Án
 
-Dự án này bao gồm **4 đề tài** về thuật toán và cấu trúc dữ liệu, từ cơ bản đến nâng cao, với tổng cộng **60 bài tập** và **40 bộ test** hoàn chỉnh.
+Dự án này bao gồm **5 đề tài** về thuật toán và cấu trúc dữ liệu, từ cơ bản đến nâng cao, với tổng cộng **75 bài tập** và **50 bộ test** hoàn chỉnh.
 
 ## 🎯 Các Đề Tài
 
@@ -25,6 +25,11 @@ Dự án này bao gồm **4 đề tài** về thuật toán và cấu trúc dữ
 - **Nội dung**: Phương pháp phân tích, coding kata, atomic code, debug strategy
 - **Bài tập**: 15 bài (5 ví dụ + 10 test chính thức)
 - **Mức độ**: Trung bình - Nâng cao
+
+### 📂 Đề Tài 5: Deque và Bài Toán Min/Max ⭐⭐⭐
+- **Nội dung**: Deque, sliding window, monotonic deque, tối ưu hóa với deque
+- **Bài tập**: 15 bài (5 ví dụ + 10 test chính thức)
+- **Mức độ**: Nâng cao
 
 ## 🚀 Cách Sử Dụng
 
@@ -63,10 +68,10 @@ diff output.txt Test01/*.out
 
 | Chỉ Số | Số Lượng |
 |---------|----------|
-| Tổng số đề tài | 4 |
-| Tổng số bài tập | 60 |
-| Tổng số file code | 60 |
-| Tổng số test case | 120+ |
+| Tổng số đề tài | 5 |
+| Tổng số bài tập | 75 |
+| Tổng số file code | 75 |
+| Tổng số test case | 150+ |
 
 ## 🛠️ Yêu Cầu Hệ Thống
 
