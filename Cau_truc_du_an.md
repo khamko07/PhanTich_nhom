@@ -49,26 +49,47 @@ PhanTich_BaiTapNhom/
 │       ├── 📂 Test_09_INSERTPOS/
 │       └── 📂 Test_10_FREQUENCY/
 │
-└── 📂 DE_TAI_3_THUAT_TOAN_THAM_LAM/              # ⭐ ĐỀ TÀI 3
-    ├── 📄 De_tai_3_Thuat_toan_Tham_lam.md
-    ├── 📄 10_Bo_Test_Thuat_toan_Tham_lam.md
+├── 📂 DE_TAI_3_THUAT_TOAN_THAM_LAM/              # ⭐ ĐỀ TÀI 3
+│   ├── 📄 De_tai_3_Thuat_toan_Tham_lam.md
+│   ├── 📄 10_Bo_Test_Thuat_toan_Tham_lam.md
+│   ├── 📂 Bai_Tap_Vi_Du/                         # 5 bài tập ví dụ
+│   │   ├── 📂 Bai_1_Doi_tien_toi_uu/
+│   │   ├── 📂 Bai_2_Lua_chon_hoat_dong/
+│   │   ├── 📂 Bai_3_Cai_tui_phan_so/
+│   │   ├── 📂 Bai_4_Lap_lich_cong_viec/
+│   │   └── 📂 Bai_5_Tim_so_luong_khoang_toi_thieu/
+│   └── 📂 Bo_Test_Chinh_Thuc/                    # 10 bộ test chính thức
+│       ├── 📂 Test_01_COINCHANGE/
+│       ├── 📂 Test_02_ACTIVITY/
+│       ├── 📂 Test_03_KNAPSACK/
+│       ├── 📂 Test_04_SCHEDULE/
+│       ├── 📂 Test_05_INTERVALS/
+│       ├── 📂 Test_06_MAXPROFIT/
+│       ├── 📂 Test_07_MINCOINS/
+│       ├── 📂 Test_08_GASSTATION/
+│       ├── 📂 Test_09_PLATFORM/
+│       └── 📂 Test_10_MEETING/
+│
+└── 📂 DE_TAI_4_CACH_TIEP_CAN_BAI_TOAN/          # ⭐ ĐỀ TÀI 4
+    ├── 📄 De_tai_4_Cach_tiep_can_bai_toan.md
+    ├── 📄 10_Bo_Test_Cach_tiep_can_bai_toan.md
     ├── 📂 Bai_Tap_Vi_Du/                         # 5 bài tập ví dụ
-    │   ├── 📂 Bai_1_Doi_tien_toi_uu/
-    │   ├── 📂 Bai_2_Lua_chon_hoat_dong/
-    │   ├── 📂 Bai_3_Cai_tui_phan_so/
-    │   ├── 📂 Bai_4_Lap_lich_cong_viec/
-    │   └── 📂 Bai_5_Tim_so_luong_khoang_toi_thieu/
+    │   ├── 📂 Bai_1_Phan_tich_cach_tiep_can/
+    │   ├── 📂 Bai_2_Chia_nho_van_de/
+    │   ├── 📂 Bai_3_Coding_kata/
+    │   ├── 📂 Bai_4_Atomic_code/
+    │   └── 📂 Bai_5_Debug_strategy/
     └── 📂 Bo_Test_Chinh_Thuc/                    # 10 bộ test chính thức
-        ├── 📂 Test_01_COINCHANGE/
-        ├── 📂 Test_02_ACTIVITY/
-        ├── 📂 Test_03_KNAPSACK/
-        ├── 📂 Test_04_SCHEDULE/
-        ├── 📂 Test_05_INTERVALS/
-        ├── 📂 Test_06_MAXPROFIT/
-        ├── 📂 Test_07_MINCOINS/
-        ├── 📂 Test_08_GASSTATION/
-        ├── 📂 Test_09_PLATFORM/
-        └── 📂 Test_10_MEETING/
+        ├── 📂 Test_01_APPROACH/
+        ├── 📂 Test_02_DIVIDE/
+        ├── 📂 Test_03_KATA/
+        ├── 📂 Test_04_ATOMIC/
+        ├── 📂 Test_05_DEBUG/
+        ├── 📂 Test_06_PATTERN/
+        ├── 📂 Test_07_OPTIMIZE/
+        ├── 📂 Test_08_RECURSIVE/
+        ├── 📂 Test_09_GREEDY/
+        └── 📂 Test_10_COMPLETE/
 ```
 
 ## 📋 Chi Tiết Từng Đề Tài
@@ -90,6 +111,12 @@ PhanTich_BaiTapNhom/
 - **Lý thuyết**: Greedy algorithm, tính chất tối ưu cục bộ
 - **Bài tập ví dụ**: 5 bài về các dạng tham lam kinh điển
 - **Bộ test**: 10 bài toán tối ưu hóa sử dụng thuật toán tham lam
+
+### 🔹 Đề Tài 4: Những Cách Tiếp Cận Bài Toán
+**Mức độ**: ⭐⭐ (Trung bình - Nâng cao)
+- **Lý thuyết**: Phương pháp phân tích và tiếp cận bài toán, coding kata, atomic code
+- **Bài tập ví dụ**: 5 bài về các kỹ thuật tiếp cận khác nhau
+- **Bộ test**: 10 bài toán thực hành kỹ năng giải quyết vấn đề
 
 ## 📁 Cấu Trúc Thư Mục Con
 
@@ -134,7 +161,8 @@ g++ -o program Ten_Bai.cpp
 | Đề Tài 1 | 5 | 10 | 15 | ⭐⭐ |
 | Đề Tài 2 | 5 | 10 | 15 | ⭐ |
 | Đề Tài 3 | 5 | 10 | 15 | ⭐⭐⭐ |
-| **Tổng** | **15** | **30** | **45** | - |
+| Đề Tài 4 | 5 | 10 | 15 | ⭐⭐ |
+| **Tổng** | **20** | **40** | **60** | - |
 
 ## 🔧 Công Cụ Cần Thiết
 
