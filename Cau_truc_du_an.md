@@ -91,26 +91,89 @@ PhanTich_BaiTapNhom/
 │       ├── 📂 Test_09_GREEDY/
 │       └── 📂 Test_10_COMPLETE/
 │
-└── 📂 DE_TAI_5_DEQUE_MIN_MAX/                   # ⭐ ĐỀ TÀI 5
-    ├── 📄 De_tai_5_Deque_Min_Max.md
-    ├── 📄 10_Bo_Test_Deque_Min_Max.md
+├── 📂 DE_TAI_5_DEQUE_MIN_MAX/                   # ⭐ ĐỀ TÀI 5
+│   ├── 📄 De_tai_5_Deque_Min_Max.md
+│   ├── 📄 10_Bo_Test_Deque_Min_Max.md
+│   ├── 📂 Bai_Tap_Vi_Du/                         # 5 bài tập ví dụ
+│   │   ├── 📂 Bai_1_Sliding_Window_Maximum/
+│   │   ├── 📂 Bai_2_Sliding_Window_Minimum/
+│   │   ├── 📂 Bai_3_Largest_Rectangle_Histogram/
+│   │   ├── 📂 Bai_4_Shortest_Subarray_Sum/
+│   │   └── 📂 Bai_5_Constrained_Subsequence_Sum/
+│   └── 📂 Bo_Test_Chinh_Thuc/                    # 10 bộ test chính thức
+│       ├── 📂 Test_01_SLIDING_MAX/
+│       ├── 📂 Test_02_SLIDING_MIN/
+│       ├── 📂 Test_03_HISTOGRAM/
+│       ├── 📂 Test_04_SHORTEST_SUBARRAY/
+│       ├── 📂 Test_05_CONSTRAINED_SUM/
+│       ├── 📂 Test_06_MONOTONIC_DEQUE/
+│       ├── 📂 Test_07_RANGE_MINIMUM/
+│       ├── 📂 Test_08_SLIDING_MEDIAN/
+│       ├── 📂 Test_09_MAX_RECTANGLE/
+│       └── 📂 Test_10_COMPLETE_DEQUE/
+│
+├── 📂 DE_TAI_6_TWO_POINTERS/                    # ⭐ ĐỀ TÀI 6
+│   ├── 📄 De_tai_6_Two_Pointers.md
+│   ├── 📄 10_Bo_Test_Two_Pointers.md
+│   ├── 📂 Bai_Tap_Vi_Du/                         # 5 bài tập ví dụ
+│   │   ├── 📂 Bai_1_Two_Sum_Sorted/
+│   │   ├── 📂 Bai_2_Container_Water/
+│   │   ├── 📂 Bai_3_Longest_Substring/
+│   │   ├── 📂 Bai_4_Remove_Duplicates/
+│   │   └── 📂 Bai_5_Subarray_Sum/
+│   └── 📂 Bo_Test_Chinh_Thuc/                    # 10 bộ test chính thức
+│       ├── 📂 Test_01_TWO_SUM/
+│       ├── 📂 Test_02_CONTAINER_WATER/
+│       ├── 📂 Test_03_LONGEST_SUBSTRING/
+│       ├── 📂 Test_04_REMOVE_DUPLICATES/
+│       ├── 📂 Test_05_SUBARRAY_SUM/
+│       ├── 📂 Test_06_THREE_SUM/
+│       ├── 📂 Test_07_PALINDROME_CHECK/
+│       ├── 📂 Test_08_TRAPPING_WATER/
+│       ├── 📂 Test_09_MINIMUM_WINDOW/
+│       └── 📂 Test_10_COMPLETE_TWO_POINTERS/
+│
+├── 📂 DE_TAI_7_DFS_TREE/                        # ⭐ ĐỀ TÀI 7
+│   ├── 📄 De_tai_7_DFS_Tree.md
+│   ├── 📄 10_Bo_Test_DFS_Tree.md
+│   ├── 📂 Bai_Tap_Vi_Du/                         # 5 bài tập ví dụ
+│   │   ├── 📂 Bai_1_DFS_Tree_Basic/
+│   │   ├── 📂 Bai_2_Cycle_Detection/
+│   │   ├── 📂 Bai_3_Topological_Sort/
+│   │   ├── 📂 Bai_4_Strongly_Connected_Components/
+│   │   └── 📂 Bai_5_Bridges_Articulation/
+│   └── 📂 Bo_Test_Chinh_Thuc/                    # 10 bộ test chính thức
+│       ├── 📂 Test_01_DFS_TREE/
+│       ├── 📂 Test_02_CYCLE_DETECTION/
+│       ├── 📂 Test_03_TOPOLOGICAL_SORT/
+│       ├── 📂 Test_04_STRONGLY_CONNECTED/
+│       ├── 📂 Test_05_BRIDGES/
+│       ├── 📂 Test_06_ARTICULATION_POINTS/
+│       ├── 📂 Test_07_BICONNECTED_COMPONENTS/
+│       ├── 📂 Test_08_DIRECTED_CYCLE/
+│       ├── 📂 Test_09_EDGE_CLASSIFICATION/
+│       └── 📂 Test_10_COMPLETE_DFS/
+│
+└── 📂 DE_TAI_8_GREEDY_IS_GOOD/                  # ⭐ ĐỀ TÀI 8
+    ├── 📄 De_tai_8_Greedy_Is_Good.md
+    ├── 📄 10_Bo_Test_Greedy_Is_Good.md
     ├── 📂 Bai_Tap_Vi_Du/                         # 5 bài tập ví dụ
-    │   ├── 📂 Bai_1_Sliding_Window_Maximum/
-    │   ├── 📂 Bai_2_Sliding_Window_Minimum/
-    │   ├── 📂 Bai_3_Largest_Rectangle_Histogram/
-    │   ├── 📂 Bai_4_Shortest_Subarray_Sum/
-    │   └── 📂 Bai_5_Constrained_Subsequence_Sum/
+    │   ├── 📂 Bai_1_Activity_Selection/
+    │   ├── 📂 Bai_2_Fractional_Knapsack/
+    │   ├── 📂 Bai_3_Job_Scheduling/
+    │   ├── 📂 Bai_4_Huffman_Coding/
+    │   └── 📂 Bai_5_Minimum_Spanning_Tree/
     └── 📂 Bo_Test_Chinh_Thuc/                    # 10 bộ test chính thức
-        ├── 📂 Test_01_SLIDING_MAX/
-        ├── 📂 Test_02_SLIDING_MIN/
-        ├── 📂 Test_03_HISTOGRAM/
-        ├── 📂 Test_04_SHORTEST_SUBARRAY/
-        ├── 📂 Test_05_CONSTRAINED_SUM/
-        ├── 📂 Test_06_MONOTONIC_DEQUE/
-        ├── 📂 Test_07_RANGE_MINIMUM/
-        ├── 📂 Test_08_SLIDING_MEDIAN/
-        ├── 📂 Test_09_MAX_RECTANGLE/
-        └── 📂 Test_10_COMPLETE_DEQUE/
+        ├── 📂 Test_01_ACTIVITY_SELECTION/
+        ├── 📂 Test_02_FRACTIONAL_KNAPSACK/
+        ├── 📂 Test_03_JOB_SCHEDULING/
+        ├── 📂 Test_04_HUFFMAN_CODING/
+        ├── 📂 Test_05_MINIMUM_SPANNING_TREE/
+        ├── 📂 Test_06_DIJKSTRA_SHORTEST_PATH/
+        ├── 📂 Test_07_INTERVAL_PARTITIONING/
+        ├── 📂 Test_08_MINIMIZING_LATENESS/
+        ├── 📂 Test_09_SET_COVER/
+        └── 📂 Test_10_COMPLETE_GREEDY/
 ```
 
 ## 📋 Chi Tiết Từng Đề Tài
