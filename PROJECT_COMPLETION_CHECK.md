@@ -74,16 +74,27 @@
   - [x] Bài 5: Machine Learning Basics
 - [x] Real-world applications
 
+### ✅ Đề Tài 11: Sorting Algorithms
+- [x] Lý thuyết: `De_tai_11_Sorting_Algorithms.md`
+- [x] Bộ test: `10_Bo_Test_Sorting_Algorithms.md`
+- [x] 5 bài tập ví dụ với code và test cases:
+  - [x] Bài 1: Bubble Sort
+  - [x] Bài 2: Quick Sort
+  - [x] Bài 3: Merge Sort
+  - [x] Bài 4: Heap Sort
+  - [x] Bài 5: Radix Sort
+- [x] Performance analysis và comparison
+
 ## 📊 Thống Kê Hoàn Thành
 
 ### 📈 Số Liệu Chi Tiết
 | Thành Phần | Số Lượng | Trạng Thái |
 |------------|----------|------------|
-| Đề tài | 10 | ✅ Hoàn thành |
-| Bài tập ví dụ | 50 | ✅ Hoàn thành |
-| Bộ test chính thức | 100 | ✅ Hoàn thành |
-| File code C++ | 150+ | ✅ Hoàn thành |
-| Trang lý thuyết | 300+ | ✅ Hoàn thành |
+| Đề tài | 11 | ✅ Hoàn thành |
+| Bài tập ví dụ | 55 | ✅ Hoàn thành |
+| Bộ test chính thức | 110 | ✅ Hoàn thành |
+| File code C++ | 165+ | ✅ Hoàn thành |
+| Trang lý thuyết | 330+ | ✅ Hoàn thành |
 | Debug functions | 50+ | ✅ Hoàn thành |
 | Performance analysis | 50+ | ✅ Hoàn thành |
 
