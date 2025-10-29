@@ -2,7 +2,7 @@
 
 ## 📋 Tổng Quan Dự Án
 
-Dự án này bao gồm **11 đề tài** chuyên sâu về thuật toán và cấu trúc dữ liệu, từ cơ bản đến nâng cao, với tổng cộng **165 bài tập** và **110 bộ test** hoàn chỉnh. Mỗi đề tài được thiết kế để học tập và thực hành một cách có hệ thống.
+Dự án này bao gồm **12 đề tài** chuyên sâu về thuật toán và cấu trúc dữ liệu, từ cơ bản đến nâng cao, với tổng cộng **180 bài tập** và **120 bộ test** hoàn chỉnh. Mỗi đề tài được thiết kế để học tập và thực hành một cách có hệ thống.
 
 ## 🎯 Các Đề Tài
 
@@ -61,6 +61,11 @@ Dự án này bao gồm **11 đề tài** chuyên sâu về thuật toán và c�
 - **Bài tập**: Bubble Sort, Quick Sort, Merge Sort, Heap Sort, Radix Sort
 - **Ứng dụng**: Data processing, database systems, search optimization, preprocessing
 
+### 📂 Đề Tài 12: Computational Complexity ⭐⭐⭐⭐⭐
+- **Nội dung**: Lý thuyết độ phức tạp tính toán, P vs NP, thuật toán xấp xỉ
+- **Bài tập**: Big O Analysis, Amortized Analysis, NP-Completeness, Approximation Algorithms, Lower Bounds
+- **Ứng dụng**: Algorithm design, complexity analysis, theoretical computer science
+
 ## 🚀 Cách Sử Dụng
 
 ### Bước 1: Chọn Đề Tài
@@ -98,12 +103,12 @@ diff output.txt Test01/*.out
 
 | Chỉ Số | Số Lượng |
 |---------|----------|
-| Tổng số đề tài | 11 |
-| Tổng số bài tập ví dụ | 55 (5 bài/đề tài) |
-| Tổng số bộ test | 110 (10 test/đề tài) |
-| Tổng số file code | 165+ |
-| Tổng số dòng code | ~22,000 dòng C++ |
-| Tổng số trang lý thuyết | ~330 trang markdown |
+| Tổng số đề tài | 12 |
+| Tổng số bài tập ví dụ | 60 (5 bài/đề tài) |
+| Tổng số bộ test | 120 (10 test/đề tài) |
+| Tổng số file code | 180+ |
+| Tổng số dòng code | ~25,000 dòng C++ |
+| Tổng số trang lý thuyết | ~360 trang markdown |
 
 ## 🛠️ Yêu Cầu Hệ Thống
 
