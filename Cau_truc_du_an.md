@@ -154,26 +154,68 @@ PhanTich_BaiTapNhom/
 │       ├── 📂 Test_09_EDGE_CLASSIFICATION/
 │       └── 📂 Test_10_COMPLETE_DFS/
 │
-└── 📂 DE_TAI_8_GREEDY_IS_GOOD/                  # ⭐ ĐỀ TÀI 8
-    ├── 📄 De_tai_8_Greedy_Is_Good.md
-    ├── 📄 10_Bo_Test_Greedy_Is_Good.md
+├── 📂 DE_TAI_8_GREEDY_IS_GOOD/                  # ⭐ ĐỀ TÀI 8
+│   ├── 📄 De_tai_8_Greedy_Is_Good.md
+│   ├── 📄 10_Bo_Test_Greedy_Is_Good.md
+│   ├── 📂 Bai_Tap_Vi_Du/                         # 5 bài tập ví dụ
+│   │   ├── 📂 Bai_1_Activity_Selection/
+│   │   ├── 📂 Bai_2_Fractional_Knapsack/
+│   │   ├── 📂 Bai_3_Job_Scheduling/
+│   │   ├── 📂 Bai_4_Huffman_Coding/
+│   │   └── 📂 Bai_5_Minimum_Spanning_Tree/
+│   └── 📂 Bo_Test_Chinh_Thuc/                    # 10 bộ test chính thức
+│       ├── 📂 Test_01_ACTIVITY_SELECTION/
+│       ├── 📂 Test_02_FRACTIONAL_KNAPSACK/
+│       ├── 📂 Test_03_JOB_SCHEDULING/
+│       ├── 📂 Test_04_HUFFMAN_CODING/
+│       ├── 📂 Test_05_MINIMUM_SPANNING_TREE/
+│       ├── 📂 Test_06_DIJKSTRA_SHORTEST_PATH/
+│       ├── 📂 Test_07_INTERVAL_PARTITIONING/
+│       ├── 📂 Test_08_MINIMIZING_LATENESS/
+│       ├── 📂 Test_09_SET_COVER/
+│       └── 📂 Test_10_COMPLETE_GREEDY/
+│
+├── 📂 DE_TAI_9_PRIMALITY_CHECK/                 # ⭐ ĐỀ TÀI 9
+│   ├── 📄 De_tai_9_Primality_Check.md
+│   ├── 📄 10_Bo_Test_Primality_Check.md
+│   ├── 📂 Bai_Tap_Vi_Du/                         # 5 bài tập ví dụ
+│   │   ├── 📂 Bai_1_Trial_Division/
+│   │   ├── 📂 Bai_2_Sieve_Eratosthenes/
+│   │   ├── 📂 Bai_3_Miller_Rabin/
+│   │   ├── 📂 Bai_4_Segmented_Sieve/
+│   │   └── 📂 Bai_5_Prime_Factorization/
+│   └── 📂 Bo_Test_Chinh_Thuc/                    # 10 bộ test chính thức
+│       ├── 📂 Test_01_TRIAL_DIVISION/
+│       ├── 📂 Test_02_SIEVE_ERATOSTHENES/
+│       ├── 📂 Test_03_MILLER_RABIN/
+│       ├── 📂 Test_04_SEGMENTED_SIEVE/
+│       ├── 📂 Test_05_PRIME_FACTORIZATION/
+│       ├── 📂 Test_06_POLLARD_RHO/
+│       ├── 📂 Test_07_CARMICHAEL_NUMBERS/
+│       ├── 📂 Test_08_PRIME_GAPS/
+│       ├── 📂 Test_09_GOLDBACH_CONJECTURE/
+│       └── 📂 Test_10_COMPLETE_PRIMALITY/
+│
+└── 📂 DE_TAI_10_IMPORTANCE_OF_ALGORITHMS/       # ⭐ ĐỀ TÀI 10
+    ├── 📄 De_tai_10_Importance_of_Algorithms.md
+    ├── 📄 10_Bo_Test_Importance_of_Algorithms.md
     ├── 📂 Bai_Tap_Vi_Du/                         # 5 bài tập ví dụ
-    │   ├── 📂 Bai_1_Activity_Selection/
-    │   ├── 📂 Bai_2_Fractional_Knapsack/
-    │   ├── 📂 Bai_3_Job_Scheduling/
-    │   ├── 📂 Bai_4_Huffman_Coding/
-    │   └── 📂 Bai_5_Minimum_Spanning_Tree/
+    │   ├── 📂 Bai_1_PageRank/
+    │   ├── 📂 Bai_2_Recommendation_System/
+    │   ├── 📂 Bai_3_GPS_Navigation/
+    │   ├── 📂 Bai_4_Social_Network_Analysis/
+    │   └── 📂 Bai_5_Machine_Learning_Basics/
     └── 📂 Bo_Test_Chinh_Thuc/                    # 10 bộ test chính thức
-        ├── 📂 Test_01_ACTIVITY_SELECTION/
-        ├── 📂 Test_02_FRACTIONAL_KNAPSACK/
-        ├── 📂 Test_03_JOB_SCHEDULING/
-        ├── 📂 Test_04_HUFFMAN_CODING/
-        ├── 📂 Test_05_MINIMUM_SPANNING_TREE/
-        ├── 📂 Test_06_DIJKSTRA_SHORTEST_PATH/
-        ├── 📂 Test_07_INTERVAL_PARTITIONING/
-        ├── 📂 Test_08_MINIMIZING_LATENESS/
-        ├── 📂 Test_09_SET_COVER/
-        └── 📂 Test_10_COMPLETE_GREEDY/
+        ├── 📂 Test_01_SEARCH_ENGINE/
+        ├── 📂 Test_02_RECOMMENDATION_SYSTEM/
+        ├── 📂 Test_03_GPS_NAVIGATION/
+        ├── 📂 Test_04_SOCIAL_NETWORK/
+        ├── 📂 Test_05_MACHINE_LEARNING/
+        ├── 📂 Test_06_CRYPTOGRAPHY/
+        ├── 📂 Test_07_BIOINFORMATICS/
+        ├── 📂 Test_08_LOGISTICS/
+        ├── 📂 Test_09_FINANCE/
+        └── 📂 Test_10_AI_GAME/
 ```
 
 ## 📋 Chi Tiết Từng Đề Tài
@@ -207,6 +249,36 @@ PhanTich_BaiTapNhom/
 - **Lý thuyết**: Deque, sliding window, monotonic deque, các bài toán tối ưu hóa
 - **Bài tập ví dụ**: 5 bài về sliding window và ứng dụng deque
 - **Bộ test**: 10 bài toán nâng cao sử dụng deque để tối ưu hóa
+
+### 🔹 Đề Tài 6: Two Pointers
+**Mức độ**: ⭐⭐ (Trung bình)
+- **Lý thuyết**: Kỹ thuật hai con trỏ, sliding window, tối ưu hóa thuật toán
+- **Bài tập ví dụ**: 5 bài về two pointers và sliding window
+- **Bộ test**: 10 bài toán sử dụng kỹ thuật hai con trỏ
+
+### 🔹 Đề Tài 7: DFS Tree
+**Mức độ**: ⭐⭐⭐ (Nâng cao)
+- **Lý thuyết**: Depth-First Search, tree traversal, graph algorithms
+- **Bài tập ví dụ**: 5 bài về DFS và các ứng dụng trên đồ thị
+- **Bộ test**: 10 bài toán về duyệt đồ thị và phân tích cấu trúc
+
+### 🔹 Đề Tài 8: Greedy is Good
+**Mức độ**: ⭐⭐⭐⭐ (Rất nâng cao)
+- **Lý thuyết**: Thuật toán tham lam nâng cao, chứng minh tính tối ưu
+- **Bài tập ví dụ**: 5 bài về các thuật toán tham lam kinh điển
+- **Bộ test**: 10 bài toán tối ưu hóa phức tạp
+
+### 🔹 Đề Tài 9: Primality Check
+**Mức độ**: ⭐⭐⭐ (Nâng cao)
+- **Lý thuyết**: Kiểm tra số nguyên tố, thuật toán số học, cryptography
+- **Bài tập ví dụ**: 5 bài về các phương pháp kiểm tra số nguyên tố
+- **Bộ test**: 10 bài toán về số học và ứng dụng
+
+### 🔹 Đề Tài 10: The Importance of Algorithms
+**Mức độ**: ⭐⭐⭐⭐⭐ (Chuyên gia)
+- **Lý thuyết**: Tầm quan trọng của thuật toán trong thực tế, ứng dụng đa lĩnh vực
+- **Bài tập ví dụ**: 5 bài về các ứng dụng thực tế của thuật toán
+- **Bộ test**: 10 bài toán mô phỏng các hệ thống thực tế
 
 ## 📁 Cấu Trúc Thư Mục Con
 
@@ -253,7 +325,12 @@ g++ -o program Ten_Bai.cpp
 | Đề Tài 3 | 5 | 10 | 15 | ⭐⭐⭐ |
 | Đề Tài 4 | 5 | 10 | 15 | ⭐⭐ |
 | Đề Tài 5 | 5 | 10 | 15 | ⭐⭐⭐ |
-| **Tổng** | **25** | **50** | **75** | - |
+| Đề Tài 6 | 5 | 10 | 15 | ⭐⭐ |
+| Đề Tài 7 | 5 | 10 | 15 | ⭐⭐⭐ |
+| Đề Tài 8 | 5 | 10 | 15 | ⭐⭐⭐⭐ |
+| Đề Tài 9 | 5 | 10 | 15 | ⭐⭐⭐ |
+| Đề Tài 10 | 5 | 10 | 15 | ⭐⭐⭐⭐⭐ |
+| **Tổng** | **50** | **100** | **150** | - |
 
 ## 🔧 Công Cụ Cần Thiết
 
