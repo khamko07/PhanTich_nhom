@@ -1,0 +1,3 @@
+Constant time result: 1
+Binary search result: 3
+Linear search result: 3

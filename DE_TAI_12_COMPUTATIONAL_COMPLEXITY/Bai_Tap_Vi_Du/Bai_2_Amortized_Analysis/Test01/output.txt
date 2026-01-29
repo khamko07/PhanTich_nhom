@@ -1,0 +1,3 @@
+Dynamic Array - Final size: 16
+Capacity: 32
+Amortized cost: 1.9375
